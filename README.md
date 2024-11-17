@@ -1,4 +1,4 @@
-### Context and Task
+### Context
 
 Most data science projects start by pre-processing a dataset to ensure the data is ready to use for its intended purpose. One of the tasks that a datascientist would typically complete during such a pre-processing phase is to replace missing data values in the dataset using a process known as imputation. A popular toolkit that assist with this task in python is class sklearn.preprocessing.Imputer. 
 A discussion of this class and its properties and methods can be found at http://lijiancheng0614.github.io/scikit-learn/modules/generated/sklearn.preprocessing.Imputer.html . 
